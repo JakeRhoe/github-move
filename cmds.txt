@@ -1,0 +1,7 @@
+sudo -s
+passwd root
+
+
+sudo scutil --set HostName name-you-want
+
+
